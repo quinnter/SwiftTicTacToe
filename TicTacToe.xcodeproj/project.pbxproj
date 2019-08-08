@@ -19,6 +19,7 @@
 		1A3BB37022FC5B4B00ECDBCB /* PlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3BB36F22FC5B4B00ECDBCB /* PlayerViewController.swift */; };
 		1A3BB37222FC5CFC00ECDBCB /* ActionCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3BB37122FC5CFC00ECDBCB /* ActionCollectionViewCell.swift */; };
 		1A3BB37422FC5D3700ECDBCB /* ActionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3BB37322FC5D3700ECDBCB /* ActionView.swift */; };
+		1A3BB37622FC61C800ECDBCB /* BubbleParticleView.Swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3BB37522FC61C800ECDBCB /* BubbleParticleView.Swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		1A3BB36F22FC5B4B00ECDBCB /* PlayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerViewController.swift; sourceTree = "<group>"; };
 		1A3BB37122FC5CFC00ECDBCB /* ActionCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionCollectionViewCell.swift; sourceTree = "<group>"; };
 		1A3BB37322FC5D3700ECDBCB /* ActionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionView.swift; sourceTree = "<group>"; };
+		1A3BB37522FC61C800ECDBCB /* BubbleParticleView.Swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BubbleParticleView.Swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 			children = (
 				1A3BB37122FC5CFC00ECDBCB /* ActionCollectionViewCell.swift */,
 				1A3BB37322FC5D3700ECDBCB /* ActionView.swift */,
+				1A3BB37522FC61C800ECDBCB /* BubbleParticleView.Swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				1A3BB35322FC3F9200ECDBCB /* AppDelegate.swift in Sources */,
 				1A3BB36C22FC44C600ECDBCB /* Player.swift in Sources */,
 				1A3BB37222FC5CFC00ECDBCB /* ActionCollectionViewCell.swift in Sources */,
+				1A3BB37622FC61C800ECDBCB /* BubbleParticleView.Swift in Sources */,
 				1A3BB36A22FC434400ECDBCB /* Game.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
