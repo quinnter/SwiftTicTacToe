@@ -20,6 +20,8 @@
 		1A3BB37222FC5CFC00ECDBCB /* ActionCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3BB37122FC5CFC00ECDBCB /* ActionCollectionViewCell.swift */; };
 		1A3BB37422FC5D3700ECDBCB /* ActionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3BB37322FC5D3700ECDBCB /* ActionView.swift */; };
 		1A3BB37622FC61C800ECDBCB /* BubbleParticleView.Swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3BB37522FC61C800ECDBCB /* BubbleParticleView.Swift */; };
+		1A3BB37822FD963500ECDBCB /* GradientBackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3BB37722FD963500ECDBCB /* GradientBackgroundView.swift */; };
+		1A3BB37A22FD975000ECDBCB /* RoundedLayerButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3BB37922FD975000ECDBCB /* RoundedLayerButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +40,8 @@
 		1A3BB37122FC5CFC00ECDBCB /* ActionCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionCollectionViewCell.swift; sourceTree = "<group>"; };
 		1A3BB37322FC5D3700ECDBCB /* ActionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionView.swift; sourceTree = "<group>"; };
 		1A3BB37522FC61C800ECDBCB /* BubbleParticleView.Swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BubbleParticleView.Swift; sourceTree = "<group>"; };
+		1A3BB37722FD963500ECDBCB /* GradientBackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBackgroundView.swift; sourceTree = "<group>"; };
+		1A3BB37922FD975000ECDBCB /* RoundedLayerButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedLayerButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +112,8 @@
 				1A3BB37122FC5CFC00ECDBCB /* ActionCollectionViewCell.swift */,
 				1A3BB37322FC5D3700ECDBCB /* ActionView.swift */,
 				1A3BB37522FC61C800ECDBCB /* BubbleParticleView.Swift */,
+				1A3BB37722FD963500ECDBCB /* GradientBackgroundView.swift */,
+				1A3BB37922FD975000ECDBCB /* RoundedLayerButton.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -183,6 +189,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1A3BB35522FC3F9200ECDBCB /* ViewController.swift in Sources */,
+				1A3BB37A22FD975000ECDBCB /* RoundedLayerButton.swift in Sources */,
 				1A3BB36E22FC5B3E00ECDBCB /* BotPlayerViewController.swift in Sources */,
 				1A3BB36822FC406600ECDBCB /* Action.swift in Sources */,
 				1A3BB37422FC5D3700ECDBCB /* ActionView.swift in Sources */,
@@ -190,6 +197,7 @@
 				1A3BB35322FC3F9200ECDBCB /* AppDelegate.swift in Sources */,
 				1A3BB36C22FC44C600ECDBCB /* Player.swift in Sources */,
 				1A3BB37222FC5CFC00ECDBCB /* ActionCollectionViewCell.swift in Sources */,
+				1A3BB37822FD963500ECDBCB /* GradientBackgroundView.swift in Sources */,
 				1A3BB37622FC61C800ECDBCB /* BubbleParticleView.Swift in Sources */,
 				1A3BB36A22FC434400ECDBCB /* Game.swift in Sources */,
 			);
